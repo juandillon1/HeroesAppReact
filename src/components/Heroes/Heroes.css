@@ -1,0 +1,38 @@
+.Boton{
+    border: 1px solid;
+    text-decoration: none;
+    border-radius: 3%;
+    -moz-box-shadow:    inset 0 0 40px #000000;
+    -webkit-box-shadow: inset 0 0 20px #000000;
+    box-shadow:         inset 0 0 20px #000000;
+    opacity: 100% !important;
+}
+.textoP{
+    margin-top: 3%;
+}
+
+.BotonNoCond{
+    background: #F2E400;
+    background: -webkit-linear-gradient(to right, #0F0E0F, #F2E400);
+    background: linear-gradient(to right, #0F0E0F, #F2E400);
+    color: #F2E400;
+}
+.BotonNoCond:hover{
+    background:gray;
+    color: white;
+}
+
+.Superman{
+    background: #E11B22;
+    background: -webkit-linear-gradient(to right, #F2E600, #E11B22);
+    background: linear-gradient(to right, #f2e600de, #E11B22);
+    color: white;
+}
+.Superman:hover{
+    background:gray;
+    color: white;
+}
+
+.text-muted{
+    color: darkgray !important;
+}
